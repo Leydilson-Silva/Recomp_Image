@@ -1,5 +1,5 @@
 # Recomp Image
- Resize and compress image with nose.js using Sharp and Compress images
+ Resize and compress image with node.js using Sharp and Compress images
  
  Sharp
  
